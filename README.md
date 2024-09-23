@@ -104,6 +104,7 @@ select any username in the first column of the above file and check the same
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
+
 ![image](https://github.com/user-attachments/assets/cc3b3048-82b9-49fc-8978-c64dcb6bd6d1)
 
 ## nmap –script smtp-enum-users.nse <hostname>
